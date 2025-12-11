@@ -6,10 +6,11 @@
 [![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
 
 > End-to-end project that forecasts demand using time-series models (SARIMAX) and computes inventory decisions (safety stock, reorder point, EOQ) backed by forecast uncertainty. Built for reproducible analysis in Jupyter.
-
-<img width="1838" height="883" alt="Screenshot 2025-09-07 000130" src="https://github.com/user-attachments/assets/771e956a-c2c6-462b-9993-a022c4ba7b51" />
-<img width="1875" height="908" alt="Screenshot 2025-09-07 000325" src="https://github.com/user-attachments/assets/730b1c20-68da-49c3-9373-9bad57cd0672" />
-<img width="1845" height="892" alt="Screenshot 2025-09-07 000403" src="https://github.com/user-attachments/assets/d12a6e78-a7ed-4ed4-b96d-0e46ef32cd53" />
+> 
+<img width="1364" height="551" alt="Screenshot 2025-12-11 134930" src="https://github.com/user-attachments/assets/edcbbc0f-ae58-47a2-9bd2-c100f9b60d59" />
+<img width="1344" height="539" alt="Screenshot 2025-12-11 134946" src="https://github.com/user-attachments/assets/2baecaf6-d2b2-4183-81b8-f1852f1fb7fc" />
+<img width="1332" height="421" alt="Screenshot 2025-12-11 135000" src="https://github.com/user-attachments/assets/ba6d69a1-9c12-48cd-b9b7-b701f8e1f3f9" />
+<img width="320" height="114" alt="Screenshot 2025-12-11 135014" src="https://github.com/user-attachments/assets/a54cc2d8-364d-4442-9851-9a383f762ef8" />
 
 ---
 
@@ -92,3 +93,4 @@ jupyter notebook notebooks/demand_forecasting.ipynb
 
 
 ---
+
