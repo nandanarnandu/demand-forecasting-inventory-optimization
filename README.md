@@ -10,8 +10,6 @@
 <img width="1364" height="551" alt="Screenshot 2025-12-11 134930" src="https://github.com/user-attachments/assets/edcbbc0f-ae58-47a2-9bd2-c100f9b60d59" />
 <img width="1344" height="539" alt="Screenshot 2025-12-11 134946" src="https://github.com/user-attachments/assets/2baecaf6-d2b2-4183-81b8-f1852f1fb7fc" />
 <img width="1332" height="421" alt="Screenshot 2025-12-11 135000" src="https://github.com/user-attachments/assets/ba6d69a1-9c12-48cd-b9b7-b701f8e1f3f9" />
-<img width="320" height="114" alt="Screenshot 2025-12-11 135014" src="https://github.com/user-attachments/assets/a54cc2d8-364d-4442-9851-9a383f762ef8" />
-
 ---
 
 ## ✨ Features
@@ -93,4 +91,5 @@ jupyter notebook notebooks/demand_forecasting.ipynb
 
 
 ---
+
 
